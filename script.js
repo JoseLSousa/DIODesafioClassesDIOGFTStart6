@@ -13,7 +13,7 @@ class heroi {
         }else if (this.tipo == "Monge" || this.tipo == "monge"){
             console.log(`O ${this.tipo} atacou usando artes marciais`)
         }else if (this.tipo == "Ninja" || this.tipo == "ninja"){
-            console.log(`O ${this.tipo} atacou usando artes shuriken`)
+            console.log(`O ${this.tipo} atacou usando shuriken`)
         }else{
             console.log(`Heroi desconhecido`)
         }
